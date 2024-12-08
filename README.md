@@ -1,2 +1,2 @@
 # Israel-Rail-Playwright-Task
-Home Assignement from Israel Rail Company
+Home Assignment from Israel Rail Company
